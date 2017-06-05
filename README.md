@@ -1,6 +1,5 @@
-# React-Basic-Environmental
-### react项目的脚手架
-### 已经搭建好webpack等环境，拿来就能用！
+
+###如果缺少.babelrc文件 在项目中 `touch .babelrc`
 
 ```
 // 新建.babelrc
