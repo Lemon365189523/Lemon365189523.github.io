@@ -7,7 +7,7 @@
   position: relative;
   text-align: center;
   width: 100%;
-  padding-top: @v-spacing-xl;
+  padding-top: 60px;
   padding-bottom: @v-spacing-xl;
   background-color: @fill-base;
   .hairline-bottom(@border-color-base);
@@ -23,7 +23,6 @@
   & &-title,
   & &-message {
     font-size: @font-size-display-md;
-    line-height: @line-height-paragraph;
     color: @color-text-base;
     padding-left: @h-spacing-lg;
     padding-right: @h-spacing-lg;
@@ -31,10 +30,12 @@
 
   & &-title {
     margin-top: @v-spacing-lg;
+    line-height: @line-height-base;
   }
 
   & &-message {
-    margin-top: @v-spacing-lg;
+    margin-top: @v-spacing-md;
+    line-height: @line-height-paragraph;
     font-size: @font-size-caption;
     color: @color-text-caption;
   }
