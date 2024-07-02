@@ -1,0 +1,25 @@
+[
+    {
+        "key": "text",
+        "data": {
+            "title": "Item 1",
+            "subtitle": "Subtitle for Item 1"
+        },
+        "dataId":""
+    },
+    {
+        "key": "text",
+        "data": {
+            "title": "Item 2",
+            "subtitle": "Subtitle for Item 2"
+        },
+        "dataId":""
+    },
+    {
+        "key": "image",
+        "data": {
+            "imageUrl": ""
+        },
+        "dataId":""
+    }
+]
