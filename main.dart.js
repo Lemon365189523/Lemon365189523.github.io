@@ -122943,7 +122943,7 @@ if(p==null){p=$.lv().ga4().c
 p.toString}p=A.a5(p,!1,t.mJ).z
 p===$&&A.b()
 o=A.P(["Token",n,"Source-Type",p],t.N,t.z)
-o.n(0,"Access-Control-Allow-Origin","")
+o.n(0,"Access-Control-Allow-Origin","https://lemon365189523.github.io, *, *")
 o.n(0,"Access-Control-Allow-Methods","OPTIONS,POST,GET")
 o.n(0,"Access-Control-Allow-Headers","Content-Type,X-Requested-With")
 p=a.b
